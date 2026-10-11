@@ -1,0 +1,1 @@
+{"name":"seo-ghost","version":"0.3.0","private":true,"description":"Local plumbing GBP audit and management workspace","scripts":{"start":"node server.cjs","test":"node --test server.test.cjs optimization.test.cjs"},"engines":{"node":">=20"}}
